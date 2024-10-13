@@ -126,8 +126,7 @@ Once the server is running, you can use tools like Postman or Thunderbolt to int
     }
     ```
     
-## ⚙️ License
-This project is licensed under the MIT License.
+
 
 
 
